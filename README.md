@@ -31,7 +31,7 @@ make aie
 
 The design that will be used is shown in the following figure:
 
-![Tiling](./images/tiling.jpg)
+![Tiling](./images/tiling.jpg width="100" height="100")
 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
