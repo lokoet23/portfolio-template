@@ -10,7 +10,7 @@ To compile the graph for x86 simulator, the target to be used is x86sim, use:
 make aie
 ```
 
-![Tiling scheme](images/tiling_scheme.pdf)
+![Tiling_scheme](images/tiling_scheme.pdf "Tiling_scheme")
 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
