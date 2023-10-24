@@ -13,6 +13,27 @@ make aie
 ![Tiling_scheme](images/tiling.jpg "Tiling_scheme")
 
 
+## Tutorial Overview
+
+**Section 1**: Compile AI Engine code using the AI Engine compiler for `x86simulator`, viewing compilation results in Vitis&trade; Analyzer.
+
+**Section 2**: Simulate the AI Engine graph using the `x86simulator`.
+
+**Section 3**: Run software emulation using QEMU & x86 process.
+
+**Section 4**: Compile AI Engine code for `aiesimulator`, viewing compilation results in Vitis&trade; Analyzer.
+
+**Section 5**: Simulate the AI Engine graph using the `aiesimulator` and viewing trace, and profile results in Vitis Analyzer.
+
+**Section 6**: Run the hardware emulation, and view run summary in Vitis Analyzer.
+
+**Section 7**: Run on hardware.
+
+The design that will be used is shown in the following figure:
+
+![Tiling](./images/tiling.jpg)
+
+
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
