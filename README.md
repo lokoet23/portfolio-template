@@ -1,4 +1,4 @@
-# My Awesome Project
+## My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 here is how you can put in "grey" boxes:
@@ -10,7 +10,7 @@ To compile the graph for x86 simulator, the target to be used is x86sim, use:
 make aie
 ```
 
-![Tiling scheme](./images/tiling_scheme.pdf)
+![Tiling scheme](images/tiling_scheme.pdf)
 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
