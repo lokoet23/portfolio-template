@@ -1,6 +1,15 @@
 # My Awesome Project
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
+here is how you can put in "grey" boxes:
+`x86simulator`
+
+To compile the graph for x86 simulator, the target to be used is x86sim, use:
+
+```bash
+make aie
+```
+
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
 ![alt tag](http://placecorgi.com/1200/650)
