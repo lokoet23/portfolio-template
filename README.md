@@ -10,7 +10,7 @@ To compile the graph for x86 simulator, the target to be used is x86sim, use:
 make aie
 ```
 
-![Tiling_scheme](images/tiling.jpg)
+![Tiling_scheme](images/tiling.jpg){: width="50%"}
 
 
 ## Tutorial Overview
@@ -29,9 +29,7 @@ make aie
 
 **Section 7**: Run on hardware.
 
-The design that will be used is shown in the following figure:
 
-![Tiling](./images/tiling.jpg width="100" height="100")
 
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
